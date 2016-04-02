@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="str_para">Para:</string>
+    <string name="str_mensaje">Escribir mensaje:</string>
+    <string name="str_enviar">Enviar</string>
+
+
+</resources>
